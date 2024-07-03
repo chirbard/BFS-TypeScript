@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.WALL = exports.END = exports.START = exports.VISITED = exports.UNVISITED = void 0;
+const UNVISITED = 0;
+exports.UNVISITED = UNVISITED;
+const VISITED = 1;
+exports.VISITED = VISITED;
+const START = 2;
+exports.START = START;
+const END = 3;
+exports.END = END;
+const WALL = 4;
+exports.WALL = WALL;
